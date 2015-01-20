@@ -1,0 +1,6 @@
+C:\Users\Rebecca\documents\visual studio 2013\Projects\gradebook\gradebook\bin\Debug\gradebook.exe.config
+C:\Users\Rebecca\documents\visual studio 2013\Projects\gradebook\gradebook\bin\Debug\gradebook.exe
+C:\Users\Rebecca\documents\visual studio 2013\Projects\gradebook\gradebook\bin\Debug\gradebook.pdb
+C:\Users\Rebecca\documents\visual studio 2013\Projects\gradebook\gradebook\obj\Debug\gradebook.csprojResolveAssemblyReference.cache
+C:\Users\Rebecca\documents\visual studio 2013\Projects\gradebook\gradebook\obj\Debug\gradebook.exe
+C:\Users\Rebecca\documents\visual studio 2013\Projects\gradebook\gradebook\obj\Debug\gradebook.pdb
